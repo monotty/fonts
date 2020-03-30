@@ -2,9 +2,12 @@
 
 __Monotty__ is shortening for for two words: Monospaced and TTY (Teletype, Terminal).
 
-## Build
+## Building the font (e.g. generate the `.ttf` file) from source
 
-Use [FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page](https://fontforge.org/en-US/downloads/))
+The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
+
+This requires the following programs:  
+[FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page](https://fontforge.org/en-US/downloads/))
 
 ## Initial Draft Specification
 
