@@ -2,7 +2,7 @@
 
 ## Build
 
-Use [FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page)](https://fontforge.org/en-US/downloads/)
+Use [FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page](https://fontforge.org/en-US/downloads/))
 
 ## Initial Draft Specification
 
