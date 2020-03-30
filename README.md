@@ -1,5 +1,10 @@
 # Monospaced Fonts for CTL Scripts (Devanagari, Arabic, etc.)
 
+## Build
+
+Use [FontForge Open Source Font Editor](https://fontforge.org/en-US/)  
+[Download Link](https://fontforge.org/en-US/downloads/)
+
 ## Initial Draft Specification
 
 ### Standardization Goals
