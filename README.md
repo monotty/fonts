@@ -1,5 +1,7 @@
 # Monospaced Fonts for CTL Scripts (Devanagari, Arabic, etc.)
 
+__Monotty__ is shortening for for two words: Monospaced and TTY (Teletype, Terminal).
+
 ## Build
 
 Use [FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page](https://fontforge.org/en-US/downloads/))
