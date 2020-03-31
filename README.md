@@ -2,7 +2,7 @@
 
 # Monospaced Fonts for CTL Scripts (e.g. Devanagari)
 
-__Monotty__ is shortening for for two words: Monospaced and TTY (Teletype, Terminal).
+__Monotty__ is shortening for for two words: `Monospaced` and `TTY` (Teletype, Terminal).
 
 These fonts are mainly intended for displaying CTL scripts in terminal emulators supporting the character slicing. (See [the new SGR attribute](https://gitlab.freedesktop.org/terminal-wg/specifications/-/issues/23)).
 
