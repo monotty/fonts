@@ -2,6 +2,8 @@
 
 __Monotty__ is shortening for for two words: Monospaced and TTY (Teletype, Terminal).
 
+These fonts are mainly intended for displaying CTL scripts in terminal emulators supporting the character slicing. (See [new SGR attribute](https://gitlab.freedesktop.org/terminal-wg/specifications/-/issues/23)).
+
 ## Building the font (e.g. generate the `.ttf` file) from source
 
 The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
