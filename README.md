@@ -1,4 +1,4 @@
-# Monospaced Fonts for CTL Scripts (Devanagari, Arabic, etc.)
+# Monospaced Fonts for CTL Scripts (e.g. Devanagari)
 
 __Monotty__ is shortening for for two words: Monospaced and TTY (Teletype, Terminal).
 
@@ -22,8 +22,6 @@ This requires the following program:
   - Gujarati	(Gujr)
   - Tamil	(Taml)
   - ...
-- [Arabic](https://en.wikipedia.org/wiki/Arabic_script)
-- ...
 
 ## Monotty Mono Devanagari Regular
 
@@ -35,9 +33,5 @@ Base font:  `Noto Mono Regular`, `Noto Sans Devanagari Regular`
 ### Terminal output example
 
 ![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
-
-...
-
-## Monotty Mono Arabic Regular
 
 ...
