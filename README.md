@@ -36,6 +36,13 @@ Basic glyph example: http://devanaguide.huertatipografica.com/
 Font name:  `Monotty Mono Devanagari Regular`  
 Base font:  `Noto Mono Regular`, `Noto Sans Devanagari Regular`
 
+### Unicode blocks
+- Devanagari (U+0900–U+097F)
+- Devanagari Extended (U+A8E0–U+A8FF)
+
+### Ligatures and Conjuncts
+- ...
+
 ### Terminal output example
 
 ![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
