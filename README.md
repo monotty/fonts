@@ -2,6 +2,8 @@
 
 # Monospaced Fonts for CTL Scripts (e.g. Devanagari)
 
+![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
+
 __Monotty__ is shortening for for two words: `Monospaced` and `TTY` (Teletype, Terminal).
 
 These fonts are mainly intended for displaying CTL scripts in terminal emulators supporting the character slicing. (See [the new SGR attribute](https://gitlab.freedesktop.org/terminal-wg/specifications/-/issues/23)).
@@ -37,14 +39,14 @@ Font name:  `Monotty Mono Devanagari Regular`
 Base font:  `Noto Mono Regular`, `Noto Sans Devanagari Regular`
 
 ### Unicode blocks
-- Devanagari (U+0900–U+097F)
-- Devanagari Extended (U+A8E0–U+A8FF)
+Block                     | Range    
+--------------------------|--------------
+Devanagari                | U+0900 – U+097F
+Vedic Extensions          | U+1CD0 – U+1CFA
+Common Indic Number Forms | U+A830 – U+A839
+Devanagari Extended       | U+A8E0 – U+A8FD
 
 ### Ligatures and Conjuncts
 - ...
-
-### Terminal output example
-
-![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
 
 ...
