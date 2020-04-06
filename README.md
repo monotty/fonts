@@ -46,6 +46,9 @@ Vedic Extensions          | U+1CD0 – U+1CFA
 Common Indic Number Forms | U+A830 – U+A839
 Devanagari Extended       | U+A8E0 – U+A8FD
 
+### Shaping
+[...source](https://github.com/itfoundry/devanagari-shaping)
+
 ### Ligatures and Conjuncts
 - ...
 
