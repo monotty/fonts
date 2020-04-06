@@ -48,6 +48,7 @@ Devanagari Extended       | U+A8E0 – U+A8FD
 
 ### Shaping Behavior
 [...link](https://github.com/itfoundry/devanagari-shaping)
+[...link](https://docs.microsoft.com/en-us/typography/script-development/devanagari)
 
 ### Ligatures and Conjuncts
 - ...
