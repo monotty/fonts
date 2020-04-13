@@ -10,7 +10,7 @@ These fonts are mainly intended for displaying CTL scripts in terminal emulators
 
 It requires so much horizontal space that it is not very suitable for a “user interface font”.
 
-## Building the font (e.g. generate the `.ttf` file) from source
+## Building the font (e.g. generate the `.otf` file) from source
 
 The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
 
