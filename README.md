@@ -31,7 +31,7 @@ This requires the following program:
   - Tamil	(Taml)
   - ...
 
-## Monotty Mono Devanagari Regular
+## Monotty Devanagari
 
 Script description: https://hindilanguage.info/devanagari/  
 Font name:  `Monotty Devanagari`  
