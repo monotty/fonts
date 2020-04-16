@@ -1,6 +1,6 @@
 # [It is not ready for release yet]
 
-# Monospaced Fonts for CTL Scripts (e.g. Devanagari)
+# Monospaced OpenType-SVG Fonts for CTL Scripts (e.g. Devanagari)
 
 ![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
 
@@ -10,7 +10,7 @@ These fonts are mainly intended for displaying CTL scripts in terminal emulators
 
 It requires so much horizontal space that it is not very suitable for a “user interface font”.
 
-## Building the font (e.g. generate the `.otf` file) from source
+## Building the font (e.g. generate the `.ttf` file) from source
 
 The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
 
@@ -34,9 +34,7 @@ This requires the following program:
 ## Monotty Mono Devanagari Regular
 
 Script description: https://hindilanguage.info/devanagari/  
-Basic glyph example: http://devanaguide.huertatipografica.com/  
-Font name:  `Monotty Mono Devanagari Regular`  
-Base font:  `Noto Mono Regular`, `Noto Sans Devanagari Regular`
+Font name:  `Monotty Devanagari`  
 
 ### Unicode blocks
 Block                     | Range    
