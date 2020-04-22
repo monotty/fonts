@@ -1,6 +1,6 @@
 # [It is not ready for release yet]
-
-# OpenType-SVG monospace fonts for CTL scripts
+# The Monotty Font Project
+## OpenType-SVG monospace fonts for CTL scripts
 
 ![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
 
