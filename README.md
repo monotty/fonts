@@ -40,10 +40,10 @@ This requires the [FontForge Monotty Edition](https://github.com/monotty/fontfor
 ### Writing Systems
 - [ ] [Brahmic scripts](https://en.wikipedia.org/wiki/Brahmic_scripts)
   - [x] Devanagari	\[dev2]
-  - [x] Nepali \[NEP ]
-  - [x] Marathi \[MAR ]
-- [ ] Gujarati	\[gjr2]
-- [ ] Tamil	\[taml]
+    - [x] Nepali \[NEP ]
+    - [x] Marathi \[MAR ]
+  - [ ] Gujarati	\[gjr2]
+  - [ ] Tamil	\[taml]
 
 ## Monotty Devanagari
 
