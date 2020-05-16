@@ -17,12 +17,11 @@ The font binaries are not directly part of this repository, as it only contains 
 This requires the [FontForge Monotty Edition](https://github.com/monotty/fontforge).
 
 ### Building stages 
-- Use source `.sfd`
+- Use the source `.sfd`
 >![image](https://dice.netxs.online/cloud/monotty/build/step1-source.png)
 
 - Build all glyphs, or only selected glyphs, specifying the desired brush shape 
->![image](https://dice.netxs.online/cloud/monotty/build/build-brush.png)
->![image](https://dice.netxs.online/cloud/monotty/build/step2-menu-build.png)
+>![image](https://dice.netxs.online/cloud/monotty/build/step2-menu-build.png) + ![image](https://dice.netxs.online/cloud/monotty/build/build-brush.png)
 
 - Checking the results
 >![image](https://dice.netxs.online/cloud/monotty/build/step2-build.png)
