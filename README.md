@@ -1,6 +1,6 @@
 # [It is not ready for release yet]
 # The Monotty Font Project
-## OpenType-SVG monospace fonts for CTL scripts
+## OpenType monospace fonts for CTL scripts
 
 ![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
 
@@ -14,27 +14,28 @@ It requires so much horizontal space that it is not very suitable for a “user 
 
 The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
 
-This requires the following program:
-- [FontForge Open Source Font Editor](https://fontforge.org/en-US/) ([download page](https://fontforge.org/en-US/downloads/))
+This requires the [https://github.com/monotty/fontforge](FontForge Monotty Edition).
 
-## Initial Draft Specification
-
-### Standardization Goals
-- grapheme cluster boundary tailoring agreement
-- monospaced font with fixed-pitch ligatures
-- predefined ligature size chart
+## Specification
+- Font type: outline (automatic generation from strokes, stroke-based representation, expresses each glyph as a set of stems)
+- Weight: configurable stroke width
+- Em size: 2000
+- Сharacter width: monospaced, exactly 1/2em
+- Ascent: 1300
+- Descent: 700
 
 ### Writing Systems
-- [Brahmic scripts](https://en.wikipedia.org/wiki/Brahmic_scripts)
-  - Devanagari	(Deva)
-  - Gujarati	(Gujr)
-  - Tamil	(Taml)
-  - ...
+- [ ] [Brahmic scripts](https://en.wikipedia.org/wiki/Brahmic_scripts)
+  - [x] Devanagari	\[dev2]
+  - [x] Nepali \[NEP ]
+  - [x] Marathi \[MAR ]
+- [ ] Gujarati	\[gjr2]
+- [ ] Tamil	\[taml]
 
 ## Monotty Devanagari
 
-Script description: https://hindilanguage.info/devanagari/  
-Font name:  `Monotty Devanagari`  
+Devanari script description: https://hindilanguage.info/devanagari/  
+Font name:  `Monotty`  
 
 ### Unicode blocks
 Block                     | Range    
@@ -44,11 +45,34 @@ Vedic Extensions          | U+1CD0 – U+1CFA
 Common Indic Number Forms | U+A830 – U+A839
 Devanagari Extended       | U+A8E0 – U+A8FD
 
-### Shaping Behavior
-[...link](https://github.com/itfoundry/devanagari-shaping)
-[...link](https://docs.microsoft.com/en-us/typography/script-development/devanagari)
+### OpenType Features
+#### Glyph Substitution Table \[GSUB]
 
-### Ligatures and Conjuncts
-- ...
+- Localized forms
+  - Language-specific forms \[locl]
+- Basic Shaping forms
+  - Nuqta forms of consonants \[nukt]
+  - Akhand ligatures \[akhn]
+  - Above-base form of 'Ra' \[rphf]
+  - Rakaar ligatures \[rkrf]
+  - Below-base forms \[blwf]
+  - Half forms \[half]
+  - Conjunct-vattu forms \[vatu]
+  - Conjunct forms \[cjct]
+- Presentation forms
+  - Pre-base consonant conjuncts \[pres]
+  - Above-base marks \[abvs]
+  - Below-base consonant conjuncts and marks \[blws]
+  - Post-base substitutions \[psts]
+  - Halant forms \[haln]
+  
+#### Glyph Positioning Table \[GPOS]
 
-...
+- Advance width adjustment \[dist]
+- Above base marks \[abvm]
+- Below base marks \[blwm]
+
+### Related documentation
+- [FontForge Tutorial](https://fontforge.org/docs/tutorial.html)
+- [Shaping behavior of Devanagari](https://github.com/itfoundry/devanagari-shaping)
+- [Developing OpenType Fonts for Devanagari Script](https://docs.microsoft.com/en-us/typography/script-development/devanagari)
