@@ -14,7 +14,7 @@ It requires so much horizontal space that it is not very suitable for a “user 
 
 The font binaries are not directly part of this repository, as it only contains source files; however, the binaries are directly built from the `.sfd` files.
 
-This requires the [https://github.com/monotty/fontforge](FontForge Monotty Edition).
+This requires the [FontForge Monotty Edition](https://github.com/monotty/fontforge).
 
 ## Specification
 - Font type: outline (automatic generation from strokes, stroke-based representation, expresses each glyph as a set of stems)
