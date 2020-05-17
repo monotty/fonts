@@ -39,11 +39,11 @@ This requires the [FontForge Monotty Edition](https://github.com/monotty/fontfor
 
 ### Writing Systems
 - [ ] [Brahmic scripts](https://en.wikipedia.org/wiki/Brahmic_scripts)
-  - [x] Devanagari	\[dev2]
-    - [x] Nepali \[NEP ]
-    - [x] Marathi \[MAR ]
-  - [ ] Gujarati	\[gjr2]
-  - [ ] Tamil	\[taml]
+  - [x] Devanagari	`<dev2>`
+    - [x] Nepali `<NEP >`
+    - [x] Marathi `<MAR >`
+  - [ ] Gujarati	`<gjr2>`
+  - [ ] Tamil	`<tml2>`
 
 ## Monotty Devanagari
 
@@ -62,30 +62,32 @@ Devanagari Extended       | U+A8E0 – U+A8FD
 #### Glyph Substitution Table \[GSUB]
 
 - Localized forms
-  - Language-specific forms \[locl]
+  - Language-specific forms `<locl>`
 - Basic Shaping forms
-  - Nuqta forms of consonants \[nukt]
-  - Akhand ligatures \[akhn]
-  - Above-base form of 'Ra' \[rphf]
-  - Rakaar ligatures \[rkrf]
-  - Below-base forms \[blwf]
-  - Half forms \[half]
-  - Conjunct-vattu forms \[vatu]
-  - Conjunct forms \[cjct]
+  - Nuqta forms of consonants `<nukt>`
+  - Akhand ligatures `<akhn>`
+  - Above-base form of 'Ra' `<rphf>`
+  - Rakaar ligatures `<rkrf>`
+  - Below-base forms `<blwf>`
+  - Half forms `<half>`
+  - Conjunct-vattu forms `<vatu>`
+  - Conjunct forms `<cjct>`
 - Presentation forms
-  - Pre-base consonant conjuncts \[pres]
-  - Above-base marks \[abvs]
-  - Below-base consonant conjuncts and marks \[blws]
-  - Post-base substitutions \[psts]
-  - Halant forms \[haln]
+  - Pre-base consonant conjuncts `<pres>`
+  - Above-base marks `<abvs>`
+  - Below-base consonant conjuncts and marks `<blws>`
+  - Post-base substitutions `<psts>`
+  - Halant forms `<haln>`
   
 #### Glyph Positioning Table \[GPOS]
 
-- Advance width adjustment \[dist]
-- Above base marks \[abvm]
-- Below base marks \[blwm]
+- Advance width adjustment `<dist>`
+- Above base marks `<abvm>`
+- Below base marks `<blwm>`
 
 ### Related documentation
 - [FontForge Tutorial](https://fontforge.org/docs/tutorial.html)
 - [Shaping behavior of Devanagari](https://github.com/itfoundry/devanagari-shaping)
 - [Developing OpenType Fonts for Devanagari Script](https://docs.microsoft.com/en-us/typography/script-development/devanagari)
+- [Indic script shaping in OpenType](https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-indic-general.md)
+  - [Devanagari shaping in OpenType](https://github.com/n8willis/opentype-shaping-documents/blob/master/opentype-shaping-indic-general.md)
