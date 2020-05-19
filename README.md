@@ -29,7 +29,7 @@ You can also download the last generated file
 - Checking the results
 >![image](https://dice.netxs.online/cloud/monotty/build/step2-build.png)
 
-- Generate `.ttf`
+- Generate `.ttf` (File -> Generate Fonts..., Generate)
 >![image](https://dice.netxs.online/cloud/monotty/build/step3-generate.png)
 
 ## Specification
