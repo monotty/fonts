@@ -42,8 +42,8 @@ This requires the [FontForge Monotty Edition](https://github.com/monotty/fontfor
   - [x] Devanagari	`<dev2>`
     - [x] Nepali `<NEP >`
     - [x] Marathi `<MAR >`
+  - [ ] Bengali	`<bng2>`
   - [ ] Gujarati	`<gjr2>`
-  - [ ] Tamil	`<tml2>`
 
 ## Monotty Devanagari
 
