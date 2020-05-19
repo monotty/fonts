@@ -16,6 +16,9 @@ The font binaries are not directly part of this repository, as it only contains 
 
 This requires the [FontForge Monotty Edition](https://github.com/monotty/fontforge).
 
+You can also download the last generated file
+ - [`monotty-dev2.ttf`](https://dice.netxs.online/cloud/monotty/monotty-dev2.ttf)
+
 ### Building stages 
 - Use the source `.sfd`
 >![image](https://dice.netxs.online/cloud/monotty/build/step1-source.png)
