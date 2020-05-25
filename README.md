@@ -35,5 +35,5 @@ Building the font (e.g. generate the `.ttf` file) from source
 ### Download
 
  - Devanagari `<dev2>`: [`monotty-dev2.ttf`](https://dice.netxs.online/cloud/monotty/monotty-dev2.ttf)
- - Bengali `<bng2>`: NA
- - Gujarati `<gjr2>`: NA
+ - Bengali `<bng2>`: N/A
+ - Gujarati `<gjr2>`: N/A
