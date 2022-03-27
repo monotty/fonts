@@ -4,7 +4,7 @@
 __Monotty__ is shortening for for two words: `Monospaced` and `TTY` (Teletype, Terminal).
 
 Example of output  
-![image](https://dice.netxs.online/cloud/monotty/github-devanagari.png)
+![image](.resources/github-devanagari.png)
 
 These fonts are mainly intended for experiments with displaying CTL scripts in terminal emulators supporting the character slicing. (See [the new SGR attribute](https://gitlab.freedesktop.org/terminal-wg/specifications/-/issues/23)). This font has not been finalized to the level of practical use, and so far it contains some inaccuracies that are not critical for the experiments.
 
@@ -34,6 +34,6 @@ Building the font (e.g. generate the `.ttf` file) from source
 
 ### Download
 
- - Devanagari `<dev2>`: [`monotty-dev2.ttf`](https://dice.netxs.online/cloud/monotty/monotty-dev2.ttf)
+ - Devanagari `<dev2>`: [`monotty-dev2.ttf`](.resources/monotty-dev2.ttf)
  - Bengali `<bng2>`: N/A
  - Gujarati `<gjr2>`: N/A
