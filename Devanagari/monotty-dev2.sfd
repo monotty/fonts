@@ -2,8 +2,7 @@ SplineFontDB: 3.2
 FontName: Monotty
 FullName: Monotty
 FamilyName: Monotty
-Weight: 
-
+Weight: Normal
 Copyright: Copyright (c) 2020, The Monotty Project Authors (https://github.com/monotty/fonts),\nwith Reserved Font Name Monotty.
 Version: 0.010;
 DefaultBaseFilename: monotty-dev2
