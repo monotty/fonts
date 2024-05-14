@@ -4,7 +4,7 @@ FullName: Monotty
 FamilyName: Monotty
 Weight: Normal
 Copyright: Copyright (c) 2020, The Monotty Project Authors (https://github.com/monotty/fonts),\nwith Reserved Font Name Monotty.
-Version: 0.010;
+Version: 0.010
 DefaultBaseFilename: monotty-dev2
 StrokeWidth: 100
 ItalicAngle: 0
@@ -28,7 +28,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1579600521
-ModificationTime: 1589990872
+ModificationTime: 1715675456
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -868,7 +868,7 @@ DisplaySize: -48
 DisplayLayer: 0
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 22
+WinInfo: 0 16 15
 BeginPrivate: 0
 EndPrivate
 Grid
