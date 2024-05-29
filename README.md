@@ -1,6 +1,10 @@
 # Monotty Fonts
 
-### Monospaced Fonts for Terminals
+UPDATE: [May 2024]
+- Practice has shown that for correct display of the Devanagari script in the terminal, there is no need for special fonts - those proportional ones that exist are quite sufficient (e.g. [Noto Sans Devanagari](https://fonts.google.com/noto/specimen/Noto+Sans+Devanagari)). The only thing that is needed is the support for tailored grapheme clustering on the terminal side. Here's a description of the approach: https://gitlab.freedesktop.org/terminal-wg/specifications/-/issues/23. The fonts in our repository are not correct, do not use them.
+- Maybe in the future we'll make our fonts proportional.
+
+### ~~Monospaced Fonts for Terminals~~
 
 ![image](.resources/github-devanagari.png)
 
